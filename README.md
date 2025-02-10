@@ -68,10 +68,6 @@ The dataset used in this project can be found [here](https://www.kaggle.com/data
 
 Feel free to fork the repository and submit pull requests with improvements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 
 - Special thanks to Kaggle for providing the dataset.
