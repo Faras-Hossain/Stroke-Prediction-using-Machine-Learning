@@ -9,9 +9,7 @@ This project uses machine learning techniques to predict the likelihood of strok
 - **Data Exploration**: Initial analysis of the dataset to understand patterns.
 - **Visualization**: Using Matplotlib and Seaborn for insightful plots.
 - **Data Preprocessing**: Handling missing values, scaling features, and preparing data.
-- **Feature Engineering**: Creating new features to enhance model performance.
 - **Model Training**: Logistic regression implementation using Scikit-learn.
-- **Hyperparameter Tuning**: Optimizing the model for better accuracy.
 - **Evaluation**: Assessing model performance with accuracy and classification reports.
 - **Deployment**: Guidelines for deploying the model using Flask or Streamlit.
 
