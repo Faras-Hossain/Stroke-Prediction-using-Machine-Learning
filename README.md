@@ -26,7 +26,7 @@ This project uses machine learning techniques to predict the likelihood of strok
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/stroke-prediction.git
+   git clone https://github.com/Faras-Hossain/stroke-prediction.git
    ```
 2. Navigate to the project directory:
    ```sh
