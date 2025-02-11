@@ -58,7 +58,7 @@ The dataset used in this project can be found [here](https://www.kaggle.com/data
 
 ## Results
 
-- The logistic regression model achieved an accuracy of **X%**.
+- The logistic regression model achieved an accuracy of **75.66%**.
 - Key insights and trends were identified from the dataset.
 - Future improvements could involve using deep learning models for better accuracy.
 
